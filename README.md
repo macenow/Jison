@@ -34,7 +34,7 @@ jison = Jison(file_name='sample')
 ```
 
 ```python
-# get dictionary from Json
+# parse the Json and get dictionary
 pprint(jison.parse())
 """ result
 {'id': 1,

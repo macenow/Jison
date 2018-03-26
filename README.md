@@ -1,5 +1,5 @@
-# Jison
-Jison, a Tiny All-Powerful Json Parser (Python3.6)
+## Jison
+Jison is a tiny all-Powerful Json parser (Python3.6)
 
 Jison is a simple but powerful parser for Json manipulation. It parses a Json string into a dictionary with syntax check like what Python's builtin method `json.loads()` does, or write to file like `json.dump()`, but beside these it provides many additional features:
 

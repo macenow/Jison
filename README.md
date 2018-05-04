@@ -60,7 +60,7 @@ Assuming `sample.json` has following content:
 ---
 ```python
 # get single Json object in dictionary
->>> obj = jison.get_object(obj_name='params')
+>>> jison.get_object(obj_name='params')
 """ result
 {'params': [{'key1': 'main',
              'key2': 'client',
